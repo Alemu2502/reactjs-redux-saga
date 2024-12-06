@@ -7,8 +7,6 @@ Table of Contents
 5. [Running the Application](#running-the-application)
 6. [Conclusion](#conclusion)
 
-My React-Redux-Saga App
-Welcome to the main repository of My React-Redux-Saga App. This project demonstrates a comprehensive React application with advanced Redux Saga for state management and Vite for fast development.
 
 # Overview
 This application fetches and displays data from an external API, implements form validation, and uses Vite for an enhanced development experience with fast refresh.
@@ -41,7 +39,6 @@ git clone https://github.com/Alemu2502/reactjs-redux-saga.git
 
 Navigate to the project directory
 
-sh
 cd reactjs-redux-saga
 
 Install dependencies
